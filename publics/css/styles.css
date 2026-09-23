@@ -535,9 +535,9 @@ header #menu_mobile a span {
     gap: 5%;
   }
   .tab1 .list-btn {
-    width: 95%;
-    top: 90%;
-    gap: 2%;
+    width: 100%;
+    top: 84%;
+    gap: 0%;
   }
 }
 /* TAB 2 */
@@ -1088,7 +1088,7 @@ footer .content .warning a {
 }
 #popup .main-content .content-popup {
   color: #fff;
-  width: 100%;
+  width: 98%;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -1193,7 +1193,7 @@ footer .content .warning a {
   #popup-dang-ky .content-popup,
   #popup-chuc-mung .content-popup {
     width: 88%;
-    margin: 5vw auto 0;
+    margin: 0vw auto 0;
   }
   #popup-thong-bao .content-popup p,
   #popup-dang-ky .content-popup p,
